@@ -116,7 +116,7 @@ pipeline {
                         manifestsPath: 'kubernetes',
                         gitCredentials: 'github-credentials',
                         gitUserName: 'Jenkins CI',
-                        gitUserEmail: 'shubhamnath5@gmail.com'
+                        gitUserEmail: 'nikhilrana4000@gmail.com'
                     )
                 }
             }
